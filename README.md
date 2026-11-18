@@ -9,9 +9,9 @@ O **ChatOff** é um aplicativo de mensagens instantâneas descentralizado (Peer-
 ## ⚡ Principais Recursos
 
 - 🚫 **Zero Internet**: Não precisa de Wi-Fi, 4G/5G, nem chip SIM instalado.
-- 💬 **Interface Estilo WhatsApp**: Lista de conversas organizadas, mensagens com status de envio, entrega e leitura.
+- 💬 **Mensagens Diretas e Modernas**: Lista de conversas organizadas, mensagens com status de envio, entrega e leitura.
 - 🔒 **Conversas Privadas (1 para 1)**: Inicie bate-papos exclusivos com chave de criptografia gerada sob demanda.
-- 🌐 **Lobby Público (Radar Aberto)**: Envie mensagens abertas para todos os dispositivos ao seu redor.
+- 🌐 **Lobby Aberto (Radar Geral)**: Envie mensagens abertas para todos os dispositivos ao seu redor.
 - 🛡️ **Criptografia Real de Ponta-a-Ponta**: Todas as mensagens trafegam cifradas usando **ChaCha20-Poly1305 (256 bits)**.
 - 🔄 **Atualizações Automáticas**: O app verifica e atualiza versões novas sozinho quando houver conexão disponível.
 - 🔋 **Segundo Plano Confiável**: Serviço otimizado para não ser encerrado pelo modo de economia de energia do Android (Doze Mode).
@@ -36,7 +36,7 @@ O pacote compilado `.ipa` está disponível na aba de Releases para instalação
 
 1. **Abrir o App**: Ao abrir, você verá seu apelido gerado (ex: `Android-4A2F`).
 2. **Personalizar Nome**: Toque no menu `⋮` no topo direito ➔ **Renomear-me** para colocar seu nome real ou apelido.
-3. **Conversar no Lobby Público**:
+3. **Conversar no Lobby Aberto**:
    - Toque em **Lobby Aberto**. Qualquer pessoa próxima com o app aberto receberá suas mensagens.
 4. **Conversar Privadamente (1:1)**:
    - Na tela inicial, toque no botão flutuante **💬 (Nova Conversa)**.
