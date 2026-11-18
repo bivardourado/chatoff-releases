@@ -28,7 +28,9 @@ O **ChatOff** é um aplicativo de mensagens instantâneas descentralizado (Peer-
 4. Abra o aplicativo e **conceda as permissões de Bluetooth e Dispositivos Próximos** para que o rádio possa encontrar aparelhos vizinhos.
 
 ### 🍏 iOS (iPhone)
-O pacote compilado `.ipa` está disponível na aba de Releases para instalação via AltStore, Sideloadly ou perfis de provisionamento de desenvolvedor.
+> **Aviso importante para usuários de iPhone:** 
+> Devido às restrições do sistema operacional da Apple, arquivos `.ipa` não podem ser instalados diretamente com um clique pelo Safari sem uma conta corporativa de desenvolvedor. 
+> Para instalar este pacote gratuito no seu iPhone, utilize ferramentas gratuitas e consagradas de sideloading no computador, como **[AltStore](https://altstore.io/)** ou **[Sideloadly](https://sideloadly.io/)**.
 
 ---
 
